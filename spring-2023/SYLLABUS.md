@@ -6,6 +6,7 @@
 
 ## Lecture Meeting Times
 - Lectures: 1 session / week for 10 times during the semester, 1 hour / session
+- Lecture in English and Korean (if needed)
 
 ## Lecture Goals & Description
 - This course is an introduction to software engineering, using the Java™ programming language. Students will learn the fundamentals of Java. The focus is on getting familiar with basic syntax and OOP(Object Oriented Programming) concept.
