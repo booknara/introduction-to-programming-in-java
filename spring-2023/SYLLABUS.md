@@ -1,7 +1,7 @@
 # SYLLABUS
 
 ## Targeted Students
-- Middle school or higher students due to lecture difficulty
+- Middle/high school students due to lecture difficulty
 - Students who can bring a laptop (highly recommended) or Chromebook to write a programming code
 
 ## Lecture Meeting Times
